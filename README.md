@@ -19,10 +19,12 @@ https://github.com/user-attachments/assets/56ceba29-eed9-4adc-8966-3fca857e1a1e
 
 ## For non-professional clips: 
 https://github.com/user-attachments/assets/0c198af6-6be3-4b18-9e31-c4a7c62c05a5
+
 Non-professional clips are clearly less accurate. Hopefully expanding the dataset will help.
 
 # Ball Highlighting Results 
 
 https://github.com/user-attachments/assets/bcced134-1e53-4e32-ab54-3bd3d232e4da
+
 Frame rate has been slightly slowed to see accuracy of tracking of the ball frame by frame. 
 
