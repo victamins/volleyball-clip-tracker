@@ -30,3 +30,5 @@ https://github.com/user-attachments/assets/bcced134-1e53-4e32-ab54-3bd3d232e4da
 
 Frame rate has been slightly slowed to see accuracy of tracking of the ball frame by frame. 
 
+# Acknowledgements 
+Thanks to Code In a Jiffy on Youtube for tracking shapes and help. :) https://youtu.be/neBZ6huolkg?si=78i6rApdLd6iAuT9
