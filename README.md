@@ -12,7 +12,9 @@ Although Roboflow 3.0 Object Detection had high precision measures, the dataset 
 Dataset can be found here: https://universe.roboflow.com/vb-mprtn/vb-0hnak
 
 # Object Detection Results
-Trained a best.pt, last.pt model using YOLOv8 after 100 epochs. Here are the results. Furthering the dataset will help increase consistency and accuracy. 
+Trained for best.pt, last.pt model weights using YOLOv8 after 100 epochs. Furthering the dataset will help increase consistency and accuracy. 
+
+Here are the results.  
 
 ## For professional clips:
 https://github.com/user-attachments/assets/56ceba29-eed9-4adc-8966-3fca857e1a1e
