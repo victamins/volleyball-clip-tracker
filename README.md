@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/56ceba29-eed9-4adc-8966-3fca857e1a1e
 ## For non-professional clips: 
 https://github.com/user-attachments/assets/0c198af6-6be3-4b18-9e31-c4a7c62c05a5
 
-Non-professional clips are clearly less accurate. Hopefully expanding the dataset will help.
+Non-professional clips are clearly less accurate. Picking up sideline players, and crowd members. Hopefully expanding the dataset with more non-professional images will help and improve accuracy.
 
 # Ball Highlighting Results 
 
